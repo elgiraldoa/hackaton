@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/chroma_db/
+credentials.json
+token.json
+models_output.txt
+.gemini/
+.agent/
+.agents/
+brain/
+tmp/
